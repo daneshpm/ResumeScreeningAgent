@@ -1,0 +1,13 @@
+Software Engineer
+
+Requirements:
+
+- Python
+- Java
+- SQL
+- REST APIs
+- Spring Boot
+- Git
+- Problem Solving
+- Communication Skills
+- Data Structures and Algorithms
