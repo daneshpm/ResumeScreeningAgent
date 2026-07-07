@@ -148,6 +148,9 @@ Skill matching compares extracted resume skills with the required job descriptio
 ---
 
 ## 📸 Screenshots
+<img width="1908" height="930" alt="Screenshot 2026-07-08 000605" src="https://github.com/user-attachments/assets/e0340e1e-7f6c-4f84-9388-392fd173d3b7" />
+<img width="1905" height="812" alt="Screenshot 2026-07-08 002855" src="https://github.com/user-attachments/assets/edbc1d42-daad-4ba9-9c30-d9edd8cb9cf1" />
+<img width="1910" height="8362" alt="screencapture-localhost-8501-2026-07-08-00_32_00" src="https://github.com/user-attachments/assets/1ba40641-e3f2-4c96-83a1-2bd83062d47e" />
 
 
 
