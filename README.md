@@ -141,7 +141,8 @@ Skill matching compares extracted resume skills with the required job descriptio
 
 ##  Architecture
 
-<img width="283" height="995" alt="ResumePaser" src="https://github.com/user-attachments/assets/c4b4a516-fbe0-485f-98b6-1460472d7ce2" />
+<img width="362" height="1182" alt="Arcituture" src="https://github.com/user-attachments/assets/f0000141-6fc3-4643-b8c6-06ad098dddc0" />
+
 
 
 
