@@ -1,16 +1,24 @@
 import re
 
-# A small skill dictionary
 SKILLS = [
     "python",
     "java",
     "spring boot",
     "sql",
     "mysql",
+    "postgresql",
     "mongodb",
     "git",
     "docker",
     "aws",
+    "linux",
+    "jenkins",
+    "kubernetes",
+    "ci/cd",
+    "rest api",
+    "restful api",
+    "hibernate",
+    "jpa",
     "react",
     "javascript",
     "html",
@@ -21,8 +29,7 @@ SKILLS = [
     "pytorch",
     "communication",
     "problem solving",
-    "data structures",
-    "linux"
+    "data structures"
 ]
 
 

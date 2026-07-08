@@ -100,15 +100,15 @@ if st.button("Analyze Candidates"):
                 missing
             )
 
-            final_score = (
-                similarity * 0.7 +
-                skill_score * 0.3
+            final_score = round(
+                similarity * 70 +
+                skill_score * 30,2
             )
 
-            if final_score >= 0.85:
+            if final_score >=85:
                 recommendation = "Hire"
 
-            elif final_score >= 0.70:
+            elif final_score >=70:
                 recommendation = "Consider"
 
             else:
@@ -122,7 +122,7 @@ if st.button("Analyze Candidates"):
 
                 "Skill Score": round(skill_score * 100, 2),
 
-                "Final Score": round(final_score * 100, 2),
+                "Final Score": final_score,
 
                 "Matched Skills": ", ".join(matched),
 

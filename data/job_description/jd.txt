@@ -1,13 +1,43 @@
-Software Engineer
+Software Engineer – Backend (Java/Python)
 
-Requirements:
+Company Overview
 
-- Python
+We are looking for a passionate Software Engineer to join our backend development team. The ideal candidate should have strong programming fundamentals, experience building REST APIs, and knowledge of databases and version control.
+
+Responsibilities
+
+- Design and develop scalable backend applications.
+- Build RESTful APIs using Java Spring Boot or Python.
+- Work with relational databases like MySQL or PostgreSQL.
+- Collaborate with frontend developers and QA teams.
+- Write clean, maintainable, and well-documented code.
+- Participate in code reviews and debugging.
+- Use Git for version control.
+
+Required Skills
+
 - Java
-- SQL
-- REST APIs
+- Python
 - Spring Boot
+- SQL
+- MySQL
 - Git
+- Data Structures
 - Problem Solving
-- Communication Skills
-- Data Structures and Algorithms
+- REST APIs
+
+Preferred Skills
+
+- Docker
+- AWS
+- Linux
+- MongoDB
+- Jenkins
+- CI/CD
+- Kubernetes
+
+Qualifications
+
+- Bachelor's degree in Computer Science, Information Science, AI & ML, or related field.
+- Strong communication and teamwork skills.
+- Internship or project experience is preferred.
